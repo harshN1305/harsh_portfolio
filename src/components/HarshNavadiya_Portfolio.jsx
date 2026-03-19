@@ -1162,10 +1162,10 @@ export default function Portfolio() {
             <a href="tel:8866603884" className="contact-link">
               📞 +91 8866603884
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://www.linkedin.com/in/harsh-navadiya-63749630b/" target="_blank" rel="noreferrer" className="contact-link">
               💼 LinkedIn
             </a>
-            <a href="https://github.com" target="_blank" rel="noreferrer" className="contact-link">
+            <a href="https://github.com/harshN1305" target="_blank" rel="noreferrer" className="contact-link">
               🐙 GitHub
             </a>
             <span className="contact-link">
